@@ -423,3 +423,20 @@ public class Myntra_Extent_Report {
 }
 
 ```
+
+
+![Screenshot (1547)](https://user-images.githubusercontent.com/46487696/114278864-61de8900-9a4f-11eb-8dac-c9071a6a9d69.png)
+![Screenshot (1548)](https://user-images.githubusercontent.com/46487696/114278865-630fb600-9a4f-11eb-926e-b63cd41a2fee.png)
+![Screenshot (1549)](https://user-images.githubusercontent.com/46487696/114278867-6440e300-9a4f-11eb-96c4-477f8859da46.png)
+![Screenshot (1550)](https://user-images.githubusercontent.com/46487696/114278868-6440e300-9a4f-11eb-8e53-a2ffbf9ae223.png)
+![Screenshot (1551)](https://user-images.githubusercontent.com/46487696/114278869-64d97980-9a4f-11eb-9b14-0db4ea915138.png)
+![Screenshot (1552)](https://user-images.githubusercontent.com/46487696/114278871-65721000-9a4f-11eb-8844-41d86c6ab97f.png)
+![Screenshot (1553)](https://user-images.githubusercontent.com/46487696/114278873-660aa680-9a4f-11eb-9d85-8c3ce7d3126e.png)
+![Screenshot (1554)](https://user-images.githubusercontent.com/46487696/114278874-66a33d00-9a4f-11eb-9ca9-86bc1ebac2d6.png)
+![Screenshot (1555)](https://user-images.githubusercontent.com/46487696/114278875-66a33d00-9a4f-11eb-81ee-2150af2bcbaf.png)
+![Screenshot (1556)](https://user-images.githubusercontent.com/46487696/114278876-673bd380-9a4f-11eb-9b54-22e4a09b0117.png)
+![Screenshot (1557)](https://user-images.githubusercontent.com/46487696/114278877-67d46a00-9a4f-11eb-9d22-2faab3be939c.png)
+![Screenshot (1558)](https://user-images.githubusercontent.com/46487696/114278878-67d46a00-9a4f-11eb-9c65-e2e1f1dec379.png)
+![Screenshot (1559)](https://user-images.githubusercontent.com/46487696/114278879-686d0080-9a4f-11eb-8d26-5b78a28ef099.png)
+![Screenshot (1560)](https://user-images.githubusercontent.com/46487696/114278880-69059700-9a4f-11eb-85d2-a1637ad4e945.png)
+
