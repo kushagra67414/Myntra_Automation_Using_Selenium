@@ -86,3 +86,33 @@ public class UnloadingProducts	 {
 }
 
 ```
+
+
+OutPuts =>
+
+A.
+![Screenshot (1566)](https://user-images.githubusercontent.com/46487696/114280146-9ce3bb00-9a55-11eb-8916-450de13d9344.png)
+
+B.
+
+![Screenshot (1567)](https://user-images.githubusercontent.com/46487696/114280149-9f461500-9a55-11eb-962d-92e07368e41a.png)
+
+C.
+
+![Screenshot (1568)](https://user-images.githubusercontent.com/46487696/114280151-9fdeab80-9a55-11eb-9106-f7bb1fa398f0.png)
+
+D.
+
+![Screenshot (1569)](https://user-images.githubusercontent.com/46487696/114280152-a0774200-9a55-11eb-9832-bc099789ca80.png)
+
+E.
+
+![Screenshot (1570)](https://user-images.githubusercontent.com/46487696/114280154-a2d99c00-9a55-11eb-84e5-c3af8f39a13c.png)
+
+F.
+
+![Screenshot (1571)](https://user-images.githubusercontent.com/46487696/114280155-a2d99c00-9a55-11eb-94ea-d4b64992e307.png)
+
+G.
+
+![Screenshot (1572)](https://user-images.githubusercontent.com/46487696/114280157-a3723280-9a55-11eb-9a8c-49ebb7e0e31e.png)
